@@ -1,0 +1,21 @@
+body{
+    margin: 6em;
+    padding: 6em;
+    border: 3em;
+
+    vertical-align: baseline;
+    margin-left: 10em;
+    margin-bottom: 4em;
+   }
+ .cc  {
+ width: 100em;
+ height: 3em;
+   }
+   .sub{
+     color: blueviolet;
+     width: 8em;
+     height: 4em;
+   }
+   .img{
+ text-align: center;
+   }
